@@ -1,0 +1,41 @@
+
+.navHead{
+    color: black;
+    background-color: white;
+}
+.navbar,a{
+    height: 100%;
+    width:100%;
+     position:sticky ;
+    top: 0px;
+    color: rgb(5, 5, 5);
+    font-size: larger;
+    font-weight: 20;
+    background-color: white;
+}
+
+.navbar1 ,a{
+    height: 100%;
+    width:100%;
+    background-color:rgb(43, 43, 41);
+    position:sticky ;
+    top: 0px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+        
+}
+.navbar ul li,.navbar1 ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+    line-height: 50px;
+}
+ a:hover{
+    background-color: rgb(125, 126, 126);
+}
+a{
+    text-decoration: none;
+
+}
+    
